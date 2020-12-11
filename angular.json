@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AltonKSSite-Front"
+    }
+  },
+  "defaultProject": "AltonKSSite-Front",
+  "cli": {
+    "analytics": false
+  }
 }
