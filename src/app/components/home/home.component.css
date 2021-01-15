@@ -1,0 +1,45 @@
+#home_header {
+  background-image: url("https://picsum.photos/1920/300");
+}
+
+#header_seal {
+  max-height: 150px;
+}
+
+#home_nav {
+  background-color: #AAAAAA;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#home_link_categories {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  
+  font-family: sans-serif;
+  font-size: 1.5em;
+}
+
+#home_link_categories > li > a {
+  text-decoration: none;
+}
+
+#home_body {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#home_body h1 {
+  padding-top: 20px;
+
+  font-family: sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+#home_body p {
+  font-family: sans-serif;
+  font-size: 1.25em;
+}
